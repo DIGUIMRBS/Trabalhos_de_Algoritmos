@@ -1,0 +1,6 @@
+numero1 = float(input("Digite o valor desejado:"))
+numero2 = float(input("Digite o segundo valor desejado"))
+numero3 = float(input("Digite o terceito valor desejado"))
+numero4 = float(input("Digite o quarto valor desejado"))
+numero5 = float(input("Digite o quinto valor desejado"))
+print ((numero1+numero2+numero3+numero4+numero5)/5)
